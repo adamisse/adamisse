@@ -7,6 +7,6 @@
 ### I'm currently in the .NET framework environment; 🌐
 ### You can also find me in [LinkedIn]; 💼(https://www.example.com/https://www.linkedin.com/in/matheus-bernardes-6b22ab8a/);
 
-### My Github Stats 📊
+## My Github Stats 📊
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=adamisse&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adamisse&theme=tokyonight)
